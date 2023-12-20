@@ -1,0 +1,7 @@
+/* grid grid-cols-[repeat(12, 1fr)] gap-y-1 */
+
+.artistGrid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  row-gap: 1rem;
+}

@@ -1,0 +1,683 @@
+{
+    "data": [
+      {
+        "_id": "654b6acb1f5a97e5df4a67bd",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-08-04T04:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6638"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "G5vbZ9RR4ug24",
+            "images": [
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_SOURCE",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5vbZ9RR4ug24",
+                  "platform": "ticketmaster",
+                  "url": "https://concerts.livenation.com/hot-mulligan-cincinnati-ohio-11-08-2023/event/16005EFBD53753D5"
+                }
+              ]
+            },
+            "name": "Hot Mulligan",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 42.5,
+                "min": 42.5,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-04T16:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 8,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6639"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6638",
+        "event_name": "Hot Mulligan",
+        "name": "SPOTIFY PRESALE",
+        "platform_event_id": "G5vbZ9RR4ug24",
+        "startDateTime": "2023-08-01T16:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67be",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-08-04T04:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6638"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "G5vbZ9RR4ug24",
+            "images": [
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_SOURCE",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5vbZ9RR4ug24",
+                  "platform": "ticketmaster",
+                  "url": "https://concerts.livenation.com/hot-mulligan-cincinnati-ohio-11-08-2023/event/16005EFBD53753D5"
+                }
+              ]
+            },
+            "name": "Hot Mulligan",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 42.5,
+                "min": 42.5,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-04T16:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 8,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6639"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6638",
+        "event_name": "Hot Mulligan",
+        "name": "LIVE NATION PRESALE",
+        "platform_event_id": "G5vbZ9RR4ug24",
+        "startDateTime": "2023-08-01T16:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67bf",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-08-04T04:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6638"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "G5vbZ9RR4ug24",
+            "images": [
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_SOURCE",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5vbZ9RR4ug24",
+                  "platform": "ticketmaster",
+                  "url": "https://concerts.livenation.com/hot-mulligan-cincinnati-ohio-11-08-2023/event/16005EFBD53753D5"
+                }
+              ]
+            },
+            "name": "Hot Mulligan",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 42.5,
+                "min": 42.5,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-04T16:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 8,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6639"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6638",
+        "event_name": "Hot Mulligan",
+        "name": "ARTIST PRESALE",
+        "platform_event_id": "G5vbZ9RR4ug24",
+        "startDateTime": "2023-08-03T16:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c0",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-08-04T03:59:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6638"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "G5vbZ9RR4ug24",
+            "images": [
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_SOURCE",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5vbZ9RR4ug24",
+                  "platform": "ticketmaster",
+                  "url": "https://concerts.livenation.com/hot-mulligan-cincinnati-ohio-11-08-2023/event/16005EFBD53753D5"
+                }
+              ]
+            },
+            "name": "Hot Mulligan",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 42.5,
+                "min": 42.5,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-04T16:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 8,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6639"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6638",
+        "event_name": "Hot Mulligan",
+        "name": "Official Platinum Presale",
+        "platform_event_id": "G5vbZ9RR4ug24",
+        "startDateTime": "2023-08-01T16:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c1",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-11-09T01:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6638"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "G5vbZ9RR4ug24",
+            "images": [
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_SOURCE",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/e8d/c7663007-da62-48d2-9b77-29714fdb1e8d_RETINA_PORTRAIT_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5vbZ9RR4ug24",
+                  "platform": "ticketmaster",
+                  "url": "https://concerts.livenation.com/hot-mulligan-cincinnati-ohio-11-08-2023/event/16005EFBD53753D5"
+                }
+              ]
+            },
+            "name": "Hot Mulligan",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 42.5,
+                "min": 42.5,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-04T16:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 8,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6639"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6638",
+        "event_name": "Hot Mulligan",
+        "name": "Official Platinum",
+        "platform_event_id": "G5vbZ9RR4ug24",
+        "startDateTime": "2023-08-04T16:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c2",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2023-08-25T02:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a6641"
+            },
+            "ageRestrictions": {
+              "ageRuleDescription": "21 & Over",
+              "legalAgeEnforced": true
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T23:00:00Z",
+            "id": "k7vGF9YT-_bwA",
+            "images": [
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/2a6/adb2774d-91fb-4dbc-9cd7-72eb06e752a6_SOURCE",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_RETINA_PORTRAIT_16_9.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/e/793/74eac86d-ec6f-4d76-8894-ccbd5a8c2793_RECOMENDATION_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "k7vGF9YT-_bwA",
+                  "platform": "ticketmaster",
+                  "url": "https://www.ticketmaster.com/barbaro-new-york-new-york-11-08-2023/event/00005F0FE1658C85"
+                }
+              ]
+            },
+            "name": "Barbaro",
+            "priceRange": [
+              {
+                "currency": "USD",
+                "max": 20,
+                "min": 20,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-09T01:00:00Z",
+            "saleStartDate": "2023-08-25T14:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 4,
+            "time": "23:00:00",
+            "timezone": "America/New_York",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a6642"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a6641",
+        "event_name": "Barbaro",
+        "name": "Citi® Cardmember Presale",
+        "platform_event_id": "k7vGF9YT-_bwA",
+        "startDateTime": "2023-08-22T14:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c3",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2022-10-28T07:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a66c3"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T19:45:00Z",
+            "id": "G5dbZ943DI7Cn",
+            "images": [
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_PORTRAIT_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5dbZ943DI7Cn",
+                  "platform": "ticketmaster",
+                  "url": "https://www.ticketmaster.co.uk/cliff-richard-the-blue-sapphire-tour-london-08-11-2023/event/36005D54BBA043AA"
+                }
+              ]
+            },
+            "name": "Cliff Richard the Blue Sapphire Tour 2023",
+            "priceRange": [
+              {
+                "currency": "GBP",
+                "max": 102.95,
+                "min": 69.25,
+                "type": "standard including fees"
+              },
+              {
+                "currency": "GBP",
+                "max": 90,
+                "min": 60,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-08T19:00:00Z",
+            "saleStartDate": "2022-10-28T08:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 6,
+            "time": "19:45:00",
+            "timezone": "Europe/London",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a66c4"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a66c3",
+        "event_name": "Cliff Richard the Blue Sapphire Tour 2023",
+        "name": "O2 Presale",
+        "platform_event_id": "G5dbZ943DI7Cn",
+        "startDateTime": "2022-10-27T08:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c4",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2022-10-28T07:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a66c3"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T19:45:00Z",
+            "id": "G5dbZ943DI7Cn",
+            "images": [
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_LARGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_RETINA_PORTRAIT_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/ebe/d5425cc4-5882-4d39-b5a1-1a2a96d26ebe_1819431_TABLET_LANDSCAPE_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5dbZ943DI7Cn",
+                  "platform": "ticketmaster",
+                  "url": "https://www.ticketmaster.co.uk/cliff-richard-the-blue-sapphire-tour-london-08-11-2023/event/36005D54BBA043AA"
+                }
+              ]
+            },
+            "name": "Cliff Richard the Blue Sapphire Tour 2023",
+            "priceRange": [
+              {
+                "currency": "GBP",
+                "max": 102.95,
+                "min": 69.25,
+                "type": "standard including fees"
+              },
+              {
+                "currency": "GBP",
+                "max": 90,
+                "min": 60,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-08T19:00:00Z",
+            "saleStartDate": "2022-10-28T08:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 6,
+            "time": "19:45:00",
+            "timezone": "Europe/London",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a66c4"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a66c3",
+        "event_name": "Cliff Richard the Blue Sapphire Tour 2023",
+        "name": "Live Nation Presale",
+        "platform_event_id": "G5dbZ943DI7Cn",
+        "startDateTime": "2022-10-27T08:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c5",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2022-12-02T09:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a66c7"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T19:00:00Z",
+            "id": "G5dbZ99BOuvUy",
+            "images": [
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_SOURCE",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_PORTRAIT_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/f78/562b9581-2e01-4ce9-9d01-a16d3736ff78_1291911_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5dbZ99BOuvUy",
+                  "platform": "ticketmaster",
+                  "url": "https://www.ticketmaster.co.uk/the-australian-pink-floyd-dundee-08-11-2023/event/36005D7EA0341DB9"
+                }
+              ]
+            },
+            "name": "The Australian Pink Floyd",
+            "priceRange": [
+              {
+                "currency": "GBP",
+                "max": 49.5,
+                "min": 33,
+                "type": "standard including fees"
+              },
+              {
+                "currency": "GBP",
+                "max": 45,
+                "min": 30,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-08T19:00:00Z",
+            "saleStartDate": "2022-12-02T10:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 6,
+            "time": "19:00:00",
+            "timezone": "Europe/London",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a66c8"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a66c7",
+        "event_name": "The Australian Pink Floyd",
+        "name": "Artist Presale",
+        "platform_event_id": "G5dbZ99BOuvUy",
+        "startDateTime": "2022-12-01T10:00:00Z"
+      },
+      {
+        "_id": "654b6acb1f5a97e5df4a67c6",
+        "current_date_time": "2023-11-08T11:02:34.995744",
+        "endDateTime": "2022-12-02T09:00:00Z",
+        "event": [
+          {
+            "_id": {
+              "$oid": "654b6aca1f5a97e5df4a66c7"
+            },
+            "ageRestrictions": {
+              "legalAgeEnforced": false
+            },
+            "category": "Concert",
+            "current_date_time": "2023-11-08T11:02:35.033880",
+            "date": "2023-11-08",
+            "dateTime": "2023-11-08T19:00:00Z",
+            "id": "G5dbZ99BOuvUy",
+            "images": [
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RECOMENDATION_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_PORTRAIT_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_TABLET_LANDSCAPE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_ARTIST_PAGE_3_2.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_TABLET_LANDSCAPE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_CUSTOM.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_EVENT_DETAIL_PAGE_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_SOURCE",
+              "https://s1.ticketm.net/dam/a/b06/0278e8b9-d63b-49d9-806b-c027faff8b06_1851471_RETINA_PORTRAIT_16_9.jpg",
+              "https://s1.ticketm.net/dam/a/f78/562b9581-2e01-4ce9-9d01-a16d3736ff78_1291911_TABLET_LANDSCAPE_LARGE_16_9.jpg"
+            ],
+            "meta": {
+              "otherPlatforms": [
+                {
+                  "id": "G5dbZ99BOuvUy",
+                  "platform": "ticketmaster",
+                  "url": "https://www.ticketmaster.co.uk/the-australian-pink-floyd-dundee-08-11-2023/event/36005D7EA0341DB9"
+                }
+              ]
+            },
+            "name": "The Australian Pink Floyd",
+            "priceRange": [
+              {
+                "currency": "GBP",
+                "max": 49.5,
+                "min": 33,
+                "type": "standard including fees"
+              },
+              {
+                "currency": "GBP",
+                "max": 45,
+                "min": 30,
+                "type": "standard"
+              }
+            ],
+            "saleEndDate": "2023-11-08T19:00:00Z",
+            "saleStartDate": "2022-12-02T10:00:00Z",
+            "scraped": 0,
+            "ticketLimit": 6,
+            "time": "19:00:00",
+            "timezone": "Europe/London",
+            "venueId": {
+              "$oid": "654b6aca1f5a97e5df4a66c8"
+            }
+          }
+        ],
+        "eventId": "654b6aca1f5a97e5df4a66c7",
+        "event_name": "The Australian Pink Floyd",
+        "name": "Live Nation Presale",
+        "platform_event_id": "G5dbZ99BOuvUy",
+        "startDateTime": "2022-12-01T10:00:00Z"
+      }
+    ],
+    "pagination": {
+      "page": 1,
+      "per_page": 10,
+      "total": 60904,
+      "total_pages": 6091
+    }
+  }
